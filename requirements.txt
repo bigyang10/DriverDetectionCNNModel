@@ -5,3 +5,5 @@ numpy
 requests
 matplotlib
 opencv-python-headless
+lime
+scikit-image
